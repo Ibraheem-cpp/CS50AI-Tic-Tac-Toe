@@ -1,0 +1,1 @@
+This is my second project of the CS50AI course.The name is Tic Tac Toe. In this I will make an AI that playes against the user optimally.
